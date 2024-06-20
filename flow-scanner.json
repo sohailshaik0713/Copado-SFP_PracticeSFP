@@ -4,7 +4,7 @@
       "severity": "warning"
     },
     "CopyAPIName": {
-      "severity": "note"
+      "severity": "error"
     },
     "DMLStatementInLoop": {
       "severity": "note"
@@ -22,7 +22,7 @@
       "severity": "warning"
     },
     "MissingFaultPath": {
-      "severity": "warning"
+      "severity": "error"
     },
     "MissingNullHandler": {
       "severity": "warning"
@@ -34,7 +34,7 @@
       "severity": "warning"
     },
     "UnusedVariable": {
-      "severity": "warning"
+      "severity": "error"
     }
   }
 }
