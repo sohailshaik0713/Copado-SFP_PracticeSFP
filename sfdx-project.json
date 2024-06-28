@@ -9,19 +9,11 @@
       "default": true
     },
     {
-      "path": "https://github.com/sohailshaik0713/Copado-SFP_PracticeSFP/tree/main/force-app",
-      "package": "Beta",
-      "versionName": "ver 0.1",
-      "versionNumber": "0.1.0.NEXT",
-      "default": false,
-      "versionDescription": ""
-    },
-    {
       "path": "https://github.com/sohailshaik0713/Copado-SFP_PracticeSFP/tree/beta/scripts",
       "package": "Alpha",
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
-      "default": false,
+      "default": true,
       "versionDescription": ""
     }
   ],
