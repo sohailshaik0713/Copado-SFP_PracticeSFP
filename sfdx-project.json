@@ -6,6 +6,10 @@
     },
     {
       "path": "scripts",
+      "default": true
+    },
+    {
+      "path": "scripts",
       "package": "Alpha",
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
