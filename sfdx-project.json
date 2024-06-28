@@ -3,10 +3,21 @@
     {
       "path": "force-app",
       "default": true
+    },
+    {
+      "path": "https://github.com/sohailshaik0713/Copado-SFP_PracticeSFP/tree/main/force-app",
+      "package": "Beta",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""
     }
   ],
   "name": "sfdxTrial",
   "namespace": "nvin",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "60.0"
+  "sourceApiVersion": "60.0",
+  "packageAliases": {
+    "Beta": "0Hoam0000001XgHCAU"
+  }
 }
