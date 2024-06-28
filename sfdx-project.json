@@ -6,7 +6,7 @@
     }
   ],
   "name": "sfdxTrial",
-  "namespace": "",
+  "namespace": "nvin",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "60.0"
 }
