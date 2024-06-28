@@ -13,7 +13,7 @@
       "package": "Alpha",
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
-      "default": true,
+      "default": false,
       "versionDescription": ""
     }
   ],
