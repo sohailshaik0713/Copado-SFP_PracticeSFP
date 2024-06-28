@@ -15,6 +15,14 @@
       "versionNumber": "0.1.0.NEXT",
       "default": false,
       "versionDescription": ""
+    },
+    {
+      "path": "https://github.com/sohailshaik0713/Copado-SFP_PracticeSFP/tree/beta/scripts",
+      "package": "Alpha",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""
     }
   ],
   "name": "sfdxTrial",
@@ -22,6 +30,7 @@
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "60.0",
   "packageAliases": {
-    "Beta": "0Hoam0000001XgHCAU"
+    "Beta": "0Hoam0000001XgHCAU",
+    "Alpha": "0Hoam0000001XhtCAE"
   }
 }
