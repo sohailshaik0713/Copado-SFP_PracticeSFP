@@ -6,10 +6,6 @@
     },
     {
       "path": "scripts",
-      "default": true
-    },
-    {
-      "path": "https://github.com/sohailshaik0713/Copado-SFP_PracticeSFP/tree/beta/scripts",
       "package": "Alpha",
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
